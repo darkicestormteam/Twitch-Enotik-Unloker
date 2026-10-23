@@ -12,7 +12,7 @@ Twitch Enotik Unloker - расширение для браузера, котор
 4. Включите режим разработчика.
 5. Нажмите «Загрузить распакованное» и выберите папку расширения.
 
-Подробная инструкция: [INSTALLATION.md]([INSTALLATION.md](https://github.com/darkicestormteam/Twitch-Enotik-Unloker/blob/main/Twitch%20Enotik%20Unloker/INSTALLATION.md)
+Подробная инструкция: [INSTALLATION.md]([INSTALLATION.md] https://github.com/darkicestormteam/Twitch-Enotik-Unloker/blob/main/Twitch%20Enotik%20Unloker/INSTALLATION.md)
 
 ## Быстрый переход к настройкам расширений
 
